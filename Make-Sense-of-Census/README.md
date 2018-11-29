@@ -1,6 +1,6 @@
 ### Project Overview
 
- Here i work on census record management and data analysis with the help of numpy operations.
+ Here i worked on census record management and data analysis with the help of numpy operations.
 
 
 ### Learnings from the project
